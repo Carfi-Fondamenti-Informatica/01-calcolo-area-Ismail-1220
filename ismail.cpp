@@ -4,8 +4,7 @@
 using namespace std;
 int main(){
 //Qui vanno definite le varriabili
-    float a, b, c;
-    cin >> a >> b >> c;
+    float a=0, b=0, c=0;
     
 //Qui va scritto il codice per eseguire i calcoli richiesti
 
